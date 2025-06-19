@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Mateusz! 👋
 
+💻 I'm a Junior Software Developer and a Computer Science student at Opole University of Technology (Year 2).  
+🌱 I'm currently learning fullstack development.  
+🍎 Apple enthusiast & tech lover.  
 <!--
 **matschmolke/matschmolke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
