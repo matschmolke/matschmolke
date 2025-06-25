@@ -2,7 +2,11 @@
 
 💻 I'm a Junior Software Developer and a Computer Science student at Opole University of Technology (Year 2).  
 🌱 I'm currently learning fullstack development.  
-🍎 Apple enthusiast & tech lover.  
+🍎 Apple enthusiast & tech lover.
+
+## 🛠️My stack:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,dotnet,cs,git,vscode,visualstudio,apple,windows,)](https://skillicons.dev)
 <!--
 **matschmolke/matschmolke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
