@@ -1,7 +1,7 @@
 ## Hi there, I'm Mateusz! 👋
 
 💻 I'm a Junior Software Developer and a Computer Science student at Opole University of Technology (Year 2).  
-🌱 I'm currently learning fullstack development.  
+🌱 I'm currently learning modern mobile development.  
 🍎 Apple enthusiast & tech lover.
 
 ## 🛠️My stack:
